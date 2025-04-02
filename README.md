@@ -1,6 +1,6 @@
 # Programming and Software Development 2
 
-Bem-vindo ao diretório de exercícios da disciplina de Programação e Desenvolvimento de Software II da Universidade Federal de Minas Gerais (UFMG). Este repositório contém todos os exercícios aplicados pelo professor durante o curso de Ciência da Computação. Aqui você encontrará uma variedade de projetos relacionados ao desenvolvimento de software, visando aprimorar suas habilidades de programação utilizando C++.
+Bem-vindo ao diretório de exercícios da disciplina de Programação e Desenvolvimento de Software II da Universidade Federal de Minas Gerais (UFMG). Este repositório contém todos os exercícios aplicados pelo professor durante o curso de Ciência da Computação. Aqui você encontrará uma variedade de projetos relacionados ao desenvolvimento de software, visando aprimorar as habilidades de programação utilizando C++.
 
 ### Estrutura do Diretório:
 
